@@ -9,3 +9,8 @@ Never gonna give you up
 ```javascript
 var myVar = "Never Gonna Give You Up";
 ```
+- [ ] Never
+- [X] Gonna
+- [X] Give
+- [X] You
+- [X] Up
